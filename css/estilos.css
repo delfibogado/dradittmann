@@ -872,7 +872,7 @@ button:hover {
     background-color: #d5c7c0;
 }
 
-@media (max-width: 60em) {
+@media (min-width: 768px) and (max-width: 1024px) {
     .body-contacto {
         display: flex;
         flex-direction: column;
